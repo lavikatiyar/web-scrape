@@ -2,5 +2,5 @@
 
 scrape website data with python 
 
-beautifulsoup
+1. beautifulsoup
 scrapy
